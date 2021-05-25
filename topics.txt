@@ -1,0 +1,10 @@
+Adding js file with document
+Comments in js
+Variable in js
+Variable var,let, cosnt
+Data Types
+Airthmatic Operators
+Assignment Operators
+Javascript with google chrom console
+Comaprision Operators
+IF Statement

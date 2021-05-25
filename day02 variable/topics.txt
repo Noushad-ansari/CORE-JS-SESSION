@@ -1,0 +1,7 @@
+Adding js file with document
+Comments in js
+Variable in js
+Variable let cosnt
+Data Types
+Airthmatic Operators
+Assignment Operators
