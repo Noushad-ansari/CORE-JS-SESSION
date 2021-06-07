@@ -34,9 +34,9 @@
 // var pos = str.lastIndexOf("locate");
 // console.log(pos)
 
-//Second parameter
-// var str = "Please locate where 'locate' occurs!";
-// var pos = str.lastIndexOf("locate", 15);
+// //Second parameter
+// var str = "aefdjdhesdjhfed";
+// var pos = str.lastIndexOf("e", 6);
 // console.log(pos)
 
 
@@ -82,5 +82,34 @@
 // var res = str.toLowerCase()
 // console.log(res)
 
-var str = "       Hello World!        ";
-console.log(str.trim());
+// var str = "       Hello World!        ";
+// console.log(str.trim());
+
+
+// Recommonded
+// const name = "Rahul"
+// const res = ("hello" + " world " + name)
+// console.log(res)
+
+// Most recomended,   "Template litral"
+// const name = "rahul"
+// console.log(`hello world ${name}`)
+
+// not recommended
+// console.log("Hello".concat(" ", "World!"))
+
+// Converting a String to an Array
+// var txt = "abdjfh|asfd adsjf|hdfj rahul c ,d, e"; // String
+// // const strArray = txt.split(" ")
+// console.log(strArray[2]); // Split on commas
+// console.log(txt.split(" ")); // Split on spaces
+// console.log(txt.split("|")); // Split on spaces
+
+
+console.log(navigator.appCodeName) //Mozilla
+console.log(navigator.appName) //Netscape
+console.log(navigator.appVersion) //5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)Chrome/90.0.4430.85 Safari/537.36
+console.log(navigator.platform) //Win32
+console.log(navigator.userAgent) //Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36
+
+console.log(navigator.productSub)
